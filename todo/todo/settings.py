@@ -28,8 +28,7 @@ SECRET_KEY = 'y305a^hv8gx%k#99#4h)_d8%7d3v1-+1&xhdveodq73jdiaka8'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'mariownyou-crm1.herokuapp.com',
-    '127.0.0.1'
+    
 ]
 
 
